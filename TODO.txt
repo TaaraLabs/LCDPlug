@@ -1,0 +1,1 @@
+Add a hole under trimpot so it will be accessible from both sides of the board.
